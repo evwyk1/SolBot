@@ -11,8 +11,8 @@ import winsound  # Windows sound module
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\insid\Tesseract\tesseract.exe'
 
 # Telegram bot details
-bot_token = '7537679037:AAF9Uq82VKF2XgzV_32_DUHryFnyRaSP7WA'
-chat_id = '1574820163'
+bot_token = 'xxxx'
+chat_id = 'xxxx'
 
 # Exclusion list for vWallet
 ExWallets = [ 'A282IV8','ADGEQT','','','','','','','','','',
